@@ -1,5 +1,3 @@
-package Media;
-
 import java.awt.*;
 import java.io.*;
 import java.net.URL;

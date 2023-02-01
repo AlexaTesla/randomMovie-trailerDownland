@@ -1,5 +1,3 @@
-package Media;
-
 public class MovieSearch {
     downland downlander = new downland();
 

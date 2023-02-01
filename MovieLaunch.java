@@ -1,5 +1,3 @@
-package Media;
-
 import java.io.IOException;
 
 public class MovieLaunch {
